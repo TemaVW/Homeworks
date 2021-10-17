@@ -4,3 +4,4 @@
 my_list = [1,5,"one",1.35]
 for i in my_list:
     print(type(i))
+ #
