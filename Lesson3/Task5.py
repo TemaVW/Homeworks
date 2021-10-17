@@ -21,3 +21,4 @@ while not exit:
     z += sum_func(prog,ss)
     exit=ss in prog
     print(f'Suma={z}')
+    #
