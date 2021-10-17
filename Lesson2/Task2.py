@@ -11,4 +11,5 @@ if kol_elemen>0:
         my_list[i],my_list[i+1]=my_list[i+1],my_list[i]
         i=i+2
 print(my_list)
+#
 
