@@ -11,3 +11,4 @@ tel=input('input you number of telephone: ')
 def parametru(name,s_name,year,city,email,tel):
     print(f'{name} {s_name} {year} {city} {email} {tel}')
 parametru(name=name,s_name=s_name,year=year,city=city,email=email,tel=tel)
+#
