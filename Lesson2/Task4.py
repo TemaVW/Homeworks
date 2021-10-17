@@ -6,3 +6,4 @@ tekst=input('Vvedite predlozhenie ')
 ml=tekst.split()
 for a,i in enumerate(ml):
     print(f'№{a}-{i[:10]}')
+ #
