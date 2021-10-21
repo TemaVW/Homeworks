@@ -7,3 +7,4 @@ def factorial(n):
 b=4
 for el in factorial(b):
     print(el)
+    #
