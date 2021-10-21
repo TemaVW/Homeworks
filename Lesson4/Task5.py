@@ -11,3 +11,4 @@ print(f'Тестовий список:{test_list}={reduce(my_func,test_list)}')
 def my_func2(pel,elem):
     return pel*elem
 print(reduce(my_func2,my_list2))
+#
