@@ -10,4 +10,4 @@ my_list=[1,2,3,4,5]
 result=cycle(my_list)
 print([next(result) for i in range(20)])
 
-
+##
