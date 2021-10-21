@@ -4,3 +4,4 @@ def zarplata():
     p=int(input('Введите премию: '))
     z = t * st + p
     return z
+#
