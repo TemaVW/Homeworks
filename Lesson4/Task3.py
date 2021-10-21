@@ -2,3 +2,4 @@
 # Подсказка: использовать функцию range() и генератор.
 result=[i for i in range(1,241) if i % 20==0 or i % 21==0]
 print(result)
+#
