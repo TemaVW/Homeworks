@@ -7,3 +7,4 @@ with open('T2_file') as T2:
         print(f'Сума слов в строке {number}) = {sum_words}\n')
     kol_stroke=number
     print(f'Количество строк="{kol_stroke}"')
+    #
