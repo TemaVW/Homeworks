@@ -11,3 +11,4 @@ print(f'Средний доход = {sred_dohod}')
 for s,d in sotrudniki.items():
     if d<20000:
         print(f'{s}-{d}')
+        #
