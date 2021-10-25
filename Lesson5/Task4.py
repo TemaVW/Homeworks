@@ -11,3 +11,4 @@ with open("T4_file") as T4:
             raz=line.split()
             rus_dannie=dannie.get(raz[0])
             new_file.write(f'{line.replace(raz[0],rus_dannie)}')
+        #
