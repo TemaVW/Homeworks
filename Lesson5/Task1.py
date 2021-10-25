@@ -3,3 +3,4 @@ with open('text_file.txt','w') as my_file:
     while text:
         my_file.write(f'{text}\n')
         text = input('\n')
+        #

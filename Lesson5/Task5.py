@@ -6,3 +6,4 @@ with open('T5_file.txt') as T5:
     for i in dannie:
         summa += int(i)
 print(summa)
+#
