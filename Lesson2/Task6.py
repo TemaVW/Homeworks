@@ -24,3 +24,4 @@ for number, produts in tovaru:
 for key, value in result.items():
     result[key]=list(set(value))
 print(result)
+#
