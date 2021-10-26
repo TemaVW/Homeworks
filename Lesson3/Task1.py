@@ -9,3 +9,4 @@ def del_nums():
 num1 = int(input('vvedite pervoe chislo'))
 num2 = int(input('vvedite xtoroe chislo'))
 print(del_nums())
+#
